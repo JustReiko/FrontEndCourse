@@ -2,3 +2,39 @@
     margin: 0;
     padding: 0;
 }
+
+.top {
+    width: 1319px;
+    height: 928px;
+}
+.title {
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+ }
+
+.header {
+    color: #000;
+    font-family: Gilroy-Medium;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.logo {
+    padding-left: 375px;
+    padding-top: 40px;
+    padding-right: 1510px;
+    padding-bottom: 620px;
+}
+
+.top_image {
+    padding-left: 935.94px;
+    padding-top: 162.71px;
+    padding-right: 439.25px;
+    padding-bottom: 162.45px;
+}
